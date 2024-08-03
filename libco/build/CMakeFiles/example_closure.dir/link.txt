@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/example_closure.dir/example_closure.cpp.o -o example_closure  -Wl,-rpath,/root/share/coroutine-lib/test/libco/build libcolib.so -lpthread -ldl 
